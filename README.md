@@ -8,18 +8,22 @@ Here are some ideas to get you started:
 -->
 
 🚀 MERN Stack Developer
-💻 Building Full Stack Web Applications
-🌱 Currently improving DSA and System Design
-⚡ Tech Stack: React.js | Node.js | Express.js | MongoDB | JavaScript
 
-## Projects
+💻 Building Full Stack Web Applications
+
+🌱 Currently improving DSA and System Design
+
+⚡ Tech Stack: React.js | Node.js |
+Express.js | MongoDB | JavaScript
+
+# Projects
 
 - Obys Agency Clone
 - Full Stack Authentication System
 - MERN Blog Application
 - Responsive Portfolio Website
 
-## Connect With Me
+# Connect With Me
 
 LinkedIn:(https://www.linkedin.com/in/vinit-kumar-972002262)
 
