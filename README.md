@@ -1,18 +1,26 @@
-  ## Hi there 👋 I'm vinit..
+  ## Hi, I'm Vinit Kumar👋
 
 <!--
 **vinit55com/vinit55com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 MERN Stack Developer
+💻 Building Full Stack Web Applications
+🌱 Currently improving DSA and System Design
+⚡ Tech Stack: React.js | Node.js | Express.js | MongoDB | JavaScript
+
+# Projects
+
+- Obys Agency Clone
+- Full Stack Authentication System
+- MERN Blog Application
+- Responsive Portfolio Website
+
+# Connect With Me
+
+LinkedIn: (your linkedin)
+GitHub: github.com/vinit55com
 -->
 
 
